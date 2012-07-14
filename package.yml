@@ -1,0 +1,16 @@
+---
+  author: "Sascha Gehlich <sascha@gehlich.us> (http://www.filshmedia.net)"
+  name: "npm-yaml"
+  description: "A pre-hook for npm to support package.yml"
+  version: "0.0.1"
+  repository: 
+    url: "http://github.com/saschagehlich/npm-yaml"
+  main: "./index.js"
+  dependencies: 
+    # LAWL I HAZ COMMENTZ
+    json2yaml: ">= 1.0.1"
+    js-yaml: ">= 1.0.1"
+  devDependencies: null
+  optionalDependencies: null
+  engines: 
+    node: "*"
