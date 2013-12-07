@@ -23,4 +23,4 @@ Here's why:
 
 ## License
 
-Lawl i have no idea about licenses. Let's just say it's **MIT licensed** although i have no idea what the hell that means.
+[wtfpl](http://wtfpl.org/)
